@@ -24,7 +24,7 @@ This project recreates the timeless gameplay of *Space Invaders*, where players 
 - Launch Unity Hub.
 - Click "Add" and select the cloned folder.
 - Open the project.
-3. Press "Play" in the Unity Editor to start the game.
+3. Click on Space Invaders.exe to start playing the game.
 
 ## Controls
 - **Left/Right Arrow Keys**: Move the spaceship.
